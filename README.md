@@ -8,6 +8,7 @@ Main search page, search for customers LAST NAME. It will search for partial las
 Case insensitive.
 
 <img width="400" alt="Screenshot 2023-08-27 at 8 38 48 PM" src="https://github.com/ChloeEK/MountainGoodness/assets/77647819/3d6fb4ca-6c7a-4db2-a17e-d7df070a9e6c">
+
 This is the main profile for the customer. You can enter a new product by typing in the text boxes and then pressing the add product button. You can add multiple products at one time. If you want to delete a product, simple press the corresponding delete button. YOU CAN ONLY DELETE ONE PRODUCT AT A TIME. Once you delete the product you need to press ‘Save & Search’ and the re-enter the customers profile.
 
 This is the same to edit the product. You will select the corresponding edit button for the product you want to edit. Text boxes will appear with the original product name and price, you will edit them and then press save. YOU CAN ONLY EDIT ONE PRODUCT AT A TIME. Once you edit the product you will need to press ‘Save & Search’ and then re-enter the customers profile.
