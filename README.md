@@ -4,6 +4,7 @@ I approached a small local business called Mountain Goodness in Revelstoke. It i
 
 # Users Manual
 <img width="400" alt="Screenshot 2023-08-27 at 8 31 17 PM" src="https://github.com/ChloeEK/MountainGoodness/assets/77647819/577eb5ea-9d97-4d64-97dd-a2eccf73335a"> 
+
 Main search page, search for customers LAST NAME. It will search for partial lastnames. For example: Searching ‘kni’ will bring up any name that has those letters in it.
 Case insensitive.
 
